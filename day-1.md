@@ -4,9 +4,9 @@ This project is a fun, interactive Silly Story Generator that allows users to cr
 
 ## How it works
 
-1. **Enter Custom Name**: Users can enter a custom name in the text field provided.
-2. **Select Unit**: Users can choose between US or UK units using the radio buttons.
-3. **Generate Story**: Users click the "Generate random story" button to create a new random silly story.
+- [ ] Check out the [github blog](https://github.blog/) for topic ideas.
+- [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
+- [ ] Convert my first blog post into an actual webpage.
 
 The story text will be updated based on the custom name and unit preferences chosen by the user.
 
